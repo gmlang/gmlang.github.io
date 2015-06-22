@@ -1,2 +1,2 @@
-# gmlang.github.io
-my personal website
+# www.gmlang.com
+personal site

@@ -1,0 +1,9 @@
+# Site settings
+title: gmlang.com
+tag_text: About
+description: Guangming's personal site
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
