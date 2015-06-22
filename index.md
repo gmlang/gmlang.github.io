@@ -21,8 +21,4 @@ Take a look at [our work](http://www.cabaceo.com/app.html) and [get in touch](ht
 Check out the community at [MasterR.org](http://masterr.org) where you can get high quality training materials for FREE.
 
 ### Let's Connect 
-[Resume](http://resume.gmlang.com)/
-[Twitter](http://twitter.com/gmlang)/
-[GitHub](http://github.com/gmlang)/
-[G+](https://plus.google.com/+GuangmingLang/posts)/
-[LinkedIn](https://www.linkedin.com/in/gmlang)
+[Resume](http://resume.gmlang.com)/[Twitter](http://twitter.com/gmlang)/[GitHub](http://github.com/gmlang)/[G+](https://plus.google.com/+GuangmingLang/posts)/[LinkedIn](https://www.linkedin.com/in/gmlang)
