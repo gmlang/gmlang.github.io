@@ -16,9 +16,12 @@ I used to love the Argentine tango with all my passion, and I danced and lived a
 
 Take a look at [our work](http://www.cabaceo.com/app.html) and [get in touch](http://www.cabaceo.com/contact.html). I'll personally give you a FREE 30 minutes hearing-your-pain and here-are-the-possible-solutions consulting session. 
 
-### If you are new to R and want to become great at it...
+### If you want to become great at R...
 
-Check out the community at [MasterR.org](http://masterr.org) where you can get high quality training materials for FREE.
+Check out the community at [MasterR.org](http://masterr.org) where you can get high quality training materials for FREE. You can also check out my books:
+
+1. [ezplot: How to Easily Make ggplot2 Graphics for Data Analysis](https://leanpub.com/ezplot/)
+2. [Score Personal Loan Applicants using R](https://leanpub.com/scorepersonalloanapplicantsusingr)
 
 ### Let's Connect 
 [Resume](http://resume.gmlang.com) | 
