@@ -14,7 +14,7 @@ Before I started [Cabaceo](http://cabaceo.com/), I danced the Argentine tango fo
 
 ### If you are a business owner who needs data analysis service or customized data product... 
 
-Take a look at my [work](http://www.cabaceo.com/app.html) and [get in touch](http://www.cabaceo.com/contact.html). I'll personally give you a FREE 30 minutes hearing-your-pain and here-are-the-possible-solutions consulting session. 
+Take a look at my [work](http://www.cabaceo.com/app.html) and [get in touch](http://www.cabaceo.com/contact.html). I'll give you a FREE 30 minutes hearing-your-pain and here-are-the-possible-solutions consulting session. 
 
 ### If you want to become great at R...
 
