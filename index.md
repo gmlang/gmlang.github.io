@@ -3,7 +3,7 @@ layout: default
 ---
 ![](image/gmlang.jpg)
 
-Welcome to my site. My name is Guangming Lang. I'm a data scientist and R programmer. I help businesses solve mission critical problems using advanced data analysis techniques, machine learning algorithms and web technologies. I do it in front of my Mac and over the internet. I love my work. 
+My name is Guangming Lang. I'm a data scientist and R programmer. I help businesses solve mission critical problems using advanced data analysis techniques, machine learning algorithms and web technologies. I do it in front of my Mac and over the internet. I love my work. 
 
 I live in Ann Arbor, Michigan, which is both vibrant and quiet depending on different times of the year. Its vibrance gives me excitement. Its quietness helps me think and stay productive. I love Ann Arbor. 
 
