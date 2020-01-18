@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-![](image/gmlang.jpg)
 
 Hi, my name is Guangming. I'm a data scientist and a R & Python programmer. 
 I create analytic solutions and provide consulting services for individuals, 
@@ -21,6 +20,8 @@ I had a near-death experience near Berthoud Pass in the Rocky Mountains. I got
 lost in the snowy wilderness, and climbed up and down a big tree to stay warm 
 overnight. I hiked out the next morning by following the sound of cars coming 
 from the highway.
+
+![](image/gmlang.jpg)
 
 ### If you need data science or machine learning solutions...
 
