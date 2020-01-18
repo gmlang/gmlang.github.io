@@ -23,13 +23,13 @@ from the highway.
 
 ![](image/gmlang.jpg)
 
-### If you need data science or machine learning solutions...
+### If you need data science or machine learning solutions ...
 
 Please reach out. I will talk to you for FREE for 20 minutes, and follow up 
 with a proposal of solutions. You can take a look at some of my 
 [past projects and demos](https://cabaceo.com/consulting/).
 
-### If you want to become great at R...
+### If you want to become great at R ...
 
 Check out the community at [MasterR.org](https://masterr.org) where you can get 
 high quality training materials for FREE. I've also written two R books:
