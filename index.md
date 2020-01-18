@@ -3,22 +3,35 @@ layout: default
 ---
 ![](image/gmlang.jpg)
 
-My name is Guangming Lang. I'm a data scientist and R programmer, and I help businesses develop predictive analytics solutions using statistical data analysis methods, machine learning algorithms and web technologies. I do it in front of my Mac and over the internet. I love my work.
+Hi, my name is Guangming. I'm a data scientist and a R & Python programmer. 
+I create analytic solutions and provide consulting services for individuals, 
+startups, and small businesses. I do it in front of my MacBook Pro and over the 
+internet. When I'm working, I can often enter the flow state. So I love my work.
 
-I live in Ann Arbor, Michigan, which is both vibrant and quiet depending on different times of the year. Its vibrance gives me excitement. Its quietness helps me think and stay productive. I love Ann Arbor.
+I also love tango dancing, swimming and reading.
 
-I also love swimming, rowing, reading, playing the ukulele and singing, which I do regularly if not every day.
+I used to live in Ann Arbor, Michigan, where I went to graduate school and 
+started my company [Cabaceo LLC](https://cabaceo.com). Now I live as a digital 
+nomad, spending a lot of time in Asia and working with my US-based clients 
+remotely.
 
-Before I started [Cabaceo LLC](https://cabaceo.com), I danced the Argentine tango for 6 years and had a near-death experience near Berthoud Pass.
+Here's one interesting fact about me:
 
+I had a near-death experience near Berthoud Pass in the Rocky Mountains. I got 
+lost in the snowy wilderness, and climbed up and down a big tree to stay warm 
+overnight. I hiked out the next morning by following the sound of cars coming 
+from the highway.
 
-### If you are a business owner who needs data analysis service or customized data product... 
+### If you need to discover insights from data or build a predictive model...
 
-Take a look at my [work](https://cabaceo.com/consulting/) and get in touch. I'll give you a FREE 30 minutes hearing-your-pain and here-are-the-possible-solutions consulting session.
+Please reach out. I will talk to you for FREE for 20 minutes, and follow up 
+with a proposal of solutions. You can take a look at some of my 
+[past projects and demos](https://cabaceo.com/consulting/).
 
 ### If you want to become great at R...
 
-Check out the community at [MasterR.org](http://masterr.org) where you can get high quality training materials for FREE. You can also check out my books:
+Check out the community at [MasterR.org](https://masterr.org) where you can get 
+high quality training materials for FREE. I've also written two R books:
 
 1. [ezplot: How to Easily Make ggplot2 Graphics for Data Analysis](https://leanpub.com/ezplot/)
 2. [Score Personal Loan Applicants using R](https://leanpub.com/scorepersonalloanapplicantsusingr)
