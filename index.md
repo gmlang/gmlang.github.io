@@ -22,7 +22,7 @@ lost in the snowy wilderness, and climbed up and down a big tree to stay warm
 overnight. I hiked out the next morning by following the sound of cars coming 
 from the highway.
 
-### If you need to discover insights from data or build a predictive model...
+### If you need data science or machine learning solutions...
 
 Please reach out. I will talk to you for FREE for 20 minutes, and follow up 
 with a proposal of solutions. You can take a look at some of my 
