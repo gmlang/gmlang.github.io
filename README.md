@@ -1,3 +1,3 @@
-## [gmlang.com](http://gmlang.com)
+## [gmlang.com](https://gmlang.com)
 
 my personal site
