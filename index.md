@@ -39,6 +39,7 @@ high quality training materials for FREE. I've also written two R books:
 
 ### Let's Connect
 
-[Resume](http://resume.gmlang.com) |
+[Resume - Statistician](https://drive.google.com/open?id=1UZobdufqbAgpABZg5nnlvRWqZYMWTtfA) |
+[Resume - Data Scientist]()
 [GitHub](http://github.com/gmlang) |
 [LinkedIn](https://www.linkedin.com/in/gmlang)
