@@ -39,9 +39,9 @@ high quality training materials for FREE. I've also written two R books:
 
 ### Let's Connect
 
-* [Resume - BioStatistician](https://drive.google.com/file/d/1QBTgqaNfyt_gdJQbO9Db8C_147Mbvp_Z/view?usp=sharing) |
-* [Resume - Data Scientist (Business Focused)](https://drive.google.com/file/d/1gkaveQXs_Hyjj4SJ8I5XW1fN1r3T7jBs/view?usp=sharing) |
-* [Resume - Data Scientist (R Programming Focused)]() |
-* [Resume - Data Scientist (Machine Learning Implementation Focused)]() |
-* [GitHub](http://github.com/gmlang) |
+* [Resume - BioStatistician](https://drive.google.com/file/d/1QBTgqaNfyt_gdJQbO9Db8C_147Mbvp_Z/view?usp=sharing)
+* [Resume - Data Scientist (Business Focused)](https://drive.google.com/file/d/1gkaveQXs_Hyjj4SJ8I5XW1fN1r3T7jBs/view?usp=sharing)
+* [Resume - Data Scientist (R Programming Focused)]()
+* [Resume - Data Scientist (Machine Learning Implementation Focused)]()
+* [GitHub](http://github.com/gmlang)
 * [LinkedIn](https://www.linkedin.com/in/gmlang)
