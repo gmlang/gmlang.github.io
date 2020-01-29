@@ -2,10 +2,10 @@
 layout: default
 ---
 
-Hi, my name is Guangming. I'm a data scientist and a R & Python programmer. 
+Hi, my name is Guangming. I'm a data scientist and a R and Python programmer. 
 I create analytic solutions and provide consulting services for individuals, 
 startups, and small businesses. I do it in front of my MacBook Pro and over the 
-internet. When I'm working, I can often enter the flow state. So I love my work.
+internet. When I'm working, I can often enter the flow state. I love my work.
 
 I also love tango dancing, swimming and reading.
 
@@ -39,9 +39,9 @@ high quality training materials for FREE. I've also written two R books:
 
 ### Let's Connect
 
-* [Resume - BioStatistician](https://drive.google.com/file/d/1QBTgqaNfyt_gdJQbO9Db8C_147Mbvp_Z/view?usp=sharing)
-* [Resume - Data Scientist (Business Focused)](https://drive.google.com/file/d/1gkaveQXs_Hyjj4SJ8I5XW1fN1r3T7jBs/view?usp=sharing)
-* [Resume - Data Scientist (R Programming Focused)]()
-* [Resume - Data Scientist (Machine Learning Focused)]()
+* [Resume - BioStatistician](https://drive.google.com/file/d/1Gvavv3Vao4r6iPVmjuh2l8dMriGo29Ua/view?usp=sharing)
+* [Resume - Data Scientist (Business Focused)](https://drive.google.com/file/d/1sX_x_Hu9L_OvWcQflzUGk0Jjs24wm-H0/view?usp=sharing)
+* [Resume - Data Scientist (Research Focused)](https://drive.google.com/file/d/1fTFR2hloRyZpkTV5Pruuu4xCMLygT2MF/view?usp=sharing)
+* [Resume - Machine Learning Scientist]()
 * [GitHub](http://github.com/gmlang)
 * [LinkedIn](https://www.linkedin.com/in/gmlang)
