@@ -1,7 +1,7 @@
 # Site settings
-title: gmlang.com
-tag_text: About
-description: Guangming's personal site
+title: About | Guangming Lang
+tag_text: Guangming Lang
+description: About Guangming
 
 # Build settings
 markdown: kramdown

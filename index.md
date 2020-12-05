@@ -2,37 +2,29 @@
 layout: default
 ---
 
-Hi, my name is Guangming. I'm a data scientist and a R and Python programmer. 
-I create analytic solutions and provide consulting services for individuals, 
-startups, and small businesses. I do it in front of my MacBook Pro and over the 
-internet. When I'm working, I can often enter the flow state. I love my work.
+I am a data scientist. And I work for myself by providing analytic solutions and machine learning models to companies. I love my work.
 
-I also love tango dancing, swimming and reading.
+I also enjoy tango dancing, running, swimming, reading and cooking.
 
 I used to live in Ann Arbor, Michigan, where I went to graduate school and 
-started my company [Cabaceo LLC](https://cabaceo.com). Now I live as a digital 
-nomad, spending a lot of time in Asia and working with my US-based clients 
-remotely.
+started [Cabaceo](https://cabaceo.com), a data science consulting company. Now I am a digital nomad and currently staying in Seoul to wait out COVID.
 
-Here's one interesting fact about me:
+I have a BA in math from New College of Florida and a MS in biostatistics from the University of Michigan.
 
-I had a near-death experience near Berthoud Pass in the Rocky Mountains. I got 
-lost in the snowy wilderness, and climbed up and down a big tree to stay warm 
-overnight. I hiked out the next morning by following the sound of cars coming 
-from the highway.
+### One random fact about me
+
+I had a near-death experience at Berthoud Pass. I got lost in the snowy wilderness, and had to climb up and down a tree to stay warm throughout the night. I hiked out the next morning following the sound of cars from the highway.
 
 ![](image/gmlang.jpg)
 
-### If you need data science or machine learning solutions ...
+### If you want to use data to leverage your business
 
-Please reach out. I will talk to you for FREE for 20 minutes, and follow up 
-with a proposal of solutions. You can take a look at some of my 
-[past projects and demos](https://cabaceo.com/consulting/).
+Reach out and let's talk. You can find some of my past projects
+[here](https://cabaceo.com/consulting/).
 
-### If you want to become great at R ...
+### If you want to become great at R
 
-Check out the community at [MasterR.org](https://masterr.org) where you can get 
-high quality training materials for FREE. I've also written two R books:
+Check out the community at [MasterR.org](https://masterr.org). I've also written two R books:
 
 1. [ezplot: How to Easily Make ggplot2 Graphics for Data Analysis](https://leanpub.com/ezplot/)
 2. [Score Personal Loan Applicants using R](https://leanpub.com/scorepersonalloanapplicantsusingr)
@@ -44,4 +36,3 @@ high quality training materials for FREE. I've also written two R books:
 * [Resume - Data Scientist (Research Focused)](https://drive.google.com/file/d/1v0gx1vfVsrEy9cHfLQistq1BCJzvkds7/view?usp=sharing)
 * [Resume - Machine Learning Scientist](https://drive.google.com/file/d/1Ea09agBIvVFEdKtgDsaYcD3MTCyZ4hOO/view?usp=sharing)
 * [GitHub](http://github.com/gmlang)
-* [LinkedIn](https://www.linkedin.com/in/gmlang)
