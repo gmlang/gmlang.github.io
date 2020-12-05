@@ -4,6 +4,8 @@ layout: default
 
 ![](image/gmlang.jpg)
 
+### About me
+
 I am a data scientist. And I work for myself by providing analytic solutions and machine learning models to companies. I love my work.
 
 I also enjoy tango dancing, running, swimming, reading and cooking.
@@ -13,7 +15,7 @@ started [Cabaceo](https://cabaceo.com), a data science consulting company. Now I
 
 I have a BA in math from New College of Florida and a MS in biostatistics from the University of Michigan.
 
-### A random fact about me
+### A random fact
 
 I had a near-death experience at Berthoud Pass. I got lost in the snowy wilderness, and had to climb up and down a tree to stay warm throughout the night. I hiked out the next morning following the sound of cars from the highway.
 
