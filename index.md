@@ -13,7 +13,7 @@ started [Cabaceo](https://cabaceo.com), a data science consulting company. Now I
 
 I have a BA in math from New College of Florida and a MS in biostatistics from the University of Michigan.
 
-### One random fact about me
+### A random fact about me
 
 I had a near-death experience at Berthoud Pass. I got lost in the snowy wilderness, and had to climb up and down a tree to stay warm throughout the night. I hiked out the next morning following the sound of cars from the highway.
 
