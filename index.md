@@ -17,7 +17,7 @@ I have a BA in math from New College of Florida and a MS in biostatistics from t
 
 ### A random fact
 
-I had a near-death experience at Berthoud Pass. I got lost in the snowy wilderness, and had to climb up and down a tree to stay warm throughout the night. I hiked out the next morning following the sound of cars from the highway.
+I had a near-death experience at Berthoud Pass. I got lost in the snowy wilderness and climbed up and down a tree to stay warm throughout the night. I hiked out the next morning following the sound of cars from the highway.
 
 ### If you want to use data to leverage your business
 
