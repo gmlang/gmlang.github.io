@@ -6,11 +6,11 @@ layout: default
 
 ### About me
 
-I am a data scientist and I create analytic solutions and machine learning models for crypto traders, fintech companies, and marketing companies. I also provide statistical analysis on clinical trial data for medical doctors and pharmaceuticals companies. I do all my work in front of my Mac and over the internet. I love my work.
+I am a data scientist and I create analytic solutions and machine learning models for crypto traders, fintech businesses, and marketing companies. I also provide statistical analysis on clinical trial data for medical doctors and pharmaceuticals companies. I do all my work in front of my Mac and over the internet. I love my work.
 
 I also enjoy tango dancing, running, reading and cooking.
 
-I used to live in Ann Arbor, where I went to graduate school and founded[Cabaceo](https://cabaceo.com), a data science consulting company. Now I am a digital nomad and currently live in Seoul to wait out COVID.
+I used to live in Ann Arbor, where I went to graduate school and later founded [Cabaceo](https://cabaceo.com), a data and analytics service company. Currently I live in Seoul to wait out COVID.
 
 I have a BA in math from New College of Florida and a MS in biostatistics from the University of Michigan.
 
