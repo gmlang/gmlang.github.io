@@ -6,30 +6,28 @@ layout: default
 
 ### About me
 
-I am a data scientist. And I work for myself by providing analytic solutions and machine learning models to companies. I love my work.
+I am a data scientist and I create analytic solutions and machine learning models for crypto traders, fintech companies, and marketing companies. I also provide statistical analysis on clinical trial data for medical doctors and pharmaceuticals companies. I do all my work in front of my Mac and over the internet. I love my work.
 
-I also enjoy tango dancing, running, swimming, reading and cooking.
+I also enjoy tango dancing, running, reading and cooking.
 
-I used to live in Ann Arbor, Michigan, where I went to graduate school and 
-started [Cabaceo](https://cabaceo.com), a data science consulting company. Now I am a digital nomad and currently staying in Seoul to wait out COVID.
+I used to live in Ann Arbor, where I went to graduate school and founded[Cabaceo](https://cabaceo.com), a data science consulting company. Now I am a digital nomad and currently live in Seoul to wait out COVID.
 
 I have a BA in math from New College of Florida and a MS in biostatistics from the University of Michigan.
 
 ### A random fact
 
-I had a near-death experience at Berthoud Pass. I got lost in the snowy wilderness and climbed up and down a tree to stay warm throughout the night. I hiked out the next morning following the sound of cars from the highway.
+I had a near-death experience at Berthoud Pass. I got lost in the snowy mountains and climbed a tree to stay warm throughout the night. I hiked out the next morning following the sound of cars from the highway.
 
-### If you want to use data to leverage your business
+### If you need data science or machine learning solutions
 
-Reach out and let's talk. You can find some of my past projects
-[here](https://cabaceo.com/consulting/).
+Email me at [gmlang@cabaceo.com](gmlang@cabaceo.com). You can find some of my past projects [here](https://cabaceo.com/consulting/).
 
 ### If you want to become great at R
 
 Check out the community at [MasterR.org](https://masterr.org). I've also written two R books:
 
-1. [ezplot: How to Easily Make ggplot2 Graphics for Data Analysis](https://leanpub.com/ezplot/)
-2. [Score Personal Loan Applicants using R](https://leanpub.com/scorepersonalloanapplicantsusingr)
+- [ezplot: How to Easily Make ggplot2 Graphics for Data Analysis](https://leanpub.com/ezplot/)
+- [Score Personal Loan Applicants using R](https://leanpub.com/scorepersonalloanapplicantsusingr)
 
 ### Let's Connect
 
