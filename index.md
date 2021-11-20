@@ -30,4 +30,4 @@ Check out the community at [MasterR.org](https://masterr.org). I've also written
 ### Finally, Let's Connect
 
 * [GitHub](http://github.com/gmlang)
-* [Resume](http://github.com/gmlang)
+* [Resume](https://github.com/gmlang/gmlang.github.io/raw/master/assets/gmlang_resume.pdf)
